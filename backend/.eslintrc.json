@@ -25,7 +25,8 @@
             {
                 "ts": "never"
             }
-        ]
+        ],
+        "class-methods-use-this": "warn"
     },
     "settings": {
         "import/resolver": {
